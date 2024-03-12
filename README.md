@@ -1,4 +1,4 @@
-### Hi there, I'm Victor Ren! 👋
+### Hi there, I'm Hongjia Ren(Victor)! 👋
 Experienced Agile Software Engineer | Full Working Rights | Sydney, NSW
 
 🚀 **Skills:** JavaScript, TypeScript, React, Vue, Angular, C#, .NET, Python, Django, C/C++, Java, PHP
