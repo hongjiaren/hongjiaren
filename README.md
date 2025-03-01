@@ -1,4 +1,3 @@
-```markdown
 ### Hello, I'm Hongjia Ren (Victor)! 👋
 Multimodal Pre-training Algorithm Engineer | Blackfox.ai, Sydney | Oct 2023-Feb 2024
 
