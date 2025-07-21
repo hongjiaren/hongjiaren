@@ -1,5 +1,4 @@
-### Hello, I'm Hongjia Ren (oliver)! 👋
-Multimodal Pre-training Algorithm Engineer | Blackfox.ai, Sydney | Oct 2023-Feb 2024
+### Hello, I'm Hongjia Ren (Oliver)! 👋
 
 🚀 **Skills:** Python, PyTorch, TensorFlow, CLIP, Image Processing, Natural Language Processing, Data Mining
 
