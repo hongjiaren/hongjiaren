@@ -10,7 +10,7 @@
 - Highlights: Applied Graph Neural Networks (GNNs), embedding encoding, and GCNConv for node feature processing.
 - Achievements: Awarded silver medal.
 
-**CMU - Machine Learning-Based TCP Security Action Prediction (EI Conference Paper)**
+**CMU - Machine Learning-Based TCP Security Action Prediction )**
 - Task: Predicted security actions of TCP using various machine learning algorithms.
 - Highlights: Used ensemble learning to address class imbalance issues in security categories.
 - Achievements: Received high praise from Professor Pradeep Ravikumar at Carnegie Mellon University.
